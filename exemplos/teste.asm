@@ -1,4 +1,4 @@
-; Teste de execução Hello 
+; Teste de execução Hello World
 
 ; Compilar = transformar o programa em linguagem de máquina
 ;   nasm -f elf64 <archive_name>.asm
